@@ -9,3 +9,13 @@
   font-size: 50px;
   font-weight: bold;
 }
+
+.container {
+  margin: 20px;
+}
+
+.App-footer  {
+  margin-top: 40px;
+  text-align: center;
+  color: #707070;
+}
