@@ -1,0 +1,11 @@
+.App {
+  border: #DFE2E5 solid 1px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.App-header {
+  margin: 30px;
+  font-size: 50px;
+  font-weight: bold;
+}
