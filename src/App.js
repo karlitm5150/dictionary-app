@@ -10,7 +10,7 @@ export default function App() {
         Dictionary
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="dictionary" />
       </main>
       <footer className="App-footer">
         Coded by Karli Thuen and is {" "}
