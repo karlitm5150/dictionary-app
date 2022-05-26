@@ -35,6 +35,7 @@ let [loaded, setLoaded] = useState(false);
       return (
         <div className="Dictionary">
             <section>
+                <h1>What would you like to look up?</h1>
             <form onSubmit={handleSubmit} className="search-form">
                 <div className="row">
                     <div className="col-9">
